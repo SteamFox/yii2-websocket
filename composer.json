@@ -12,11 +12,12 @@
 	],
 	"require": {
 		"yiisoft/yii2": "*",
-		"cboden/ratchet": "0.3.*"
+		"cboden/ratchet": "0.4.*",
+        "react/zmq": "0.2.*|0.3.*"
 	},
 	"autoload": {
 		"psr-4": {
-			"consik\\yii2websocket\\": ""
+			"SteamFox\\yii2websocket\\": ""
 		}
 	}
 }
